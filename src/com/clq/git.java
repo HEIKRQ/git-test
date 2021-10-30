@@ -13,6 +13,8 @@ public class git {
         System.out.println("222");
         System.out.println("合并冲突：hot-fix分支新增代码块");
         System.out.println("合并冲突：master分支新增代码块");
+        
+          System.out.println("测试pull");
 
     }
 
