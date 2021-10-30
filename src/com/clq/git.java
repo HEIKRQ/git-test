@@ -11,6 +11,7 @@ public class git {
         System.out.println("11111");
         System.out.println("33333");
         System.out.println("222");
+        System.out.println("合并冲突：master分支新增代码块");
 
     }
 
