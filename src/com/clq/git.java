@@ -7,6 +7,8 @@ public class git {
         System.out.println("hello git");
         System.out.println("这是我的第一次git-idea代码");
         System.out.println("这三次提交的代码");
+        System.out.println("hot-fix 新增的代码");
+        System.out.println("11111");
     }
 
 }
