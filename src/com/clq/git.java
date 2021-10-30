@@ -10,6 +10,8 @@ public class git {
         System.out.println("hot-fix 新增的代码");
         System.out.println("11111");
         System.out.println("33333");
+        System.out.println("222");
+
     }
 
 }
