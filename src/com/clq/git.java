@@ -9,6 +9,7 @@ public class git {
         System.out.println("这三次提交的代码");
         System.out.println("hot-fix 新增的代码");
         System.out.println("11111");
+        System.out.println("222");
     }
 
 }
